@@ -9,7 +9,9 @@
  '(inhibit-startup-screen t)
  '(initial-scratch-message nil)
  '(markdown-fontify-code-blocks-natively t)
- '(package-selected-packages '(adoc-mode blacken dockerfile-mode gptel magit markdown-mode yaml-mode zenburn-theme))
+ '(package-selected-packages
+   '(adoc-mode blacken dockerfile-mode gptel hcl-mode magit markdown-mode
+               terraform-mode yaml-mode zenburn-theme))
  '(scroll-bar-mode nil)
  '(tool-bar-mode nil)
  '(transient-mark-mode nil))
