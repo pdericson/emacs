@@ -1,0 +1,7 @@
+/.emacs.d/auto-save-list
+/.emacs.d/eln-cache
+/.emacs.d/transient
+/.emacs.d/elpa/archives/
+/.emacs.d/elpa/gnupg/
+
+#*.elc
